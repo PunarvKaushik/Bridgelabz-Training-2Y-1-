@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Arrays;
 
 public class PowerOfANumber {
     public static int pow(int p,int q){

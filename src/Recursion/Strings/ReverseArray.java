@@ -1,4 +1,4 @@
-package Recursion.Arrays;
+package Recursion.Strings;
 
 public class ReverseArray {
     public static void rev(int[] a,int index){

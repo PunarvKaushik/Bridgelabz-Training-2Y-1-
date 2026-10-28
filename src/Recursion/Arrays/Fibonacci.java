@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Arrays;
 
 public class Fibonacci {
     public static int fibonacciSeries(int n) {

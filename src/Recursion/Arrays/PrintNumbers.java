@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Arrays;
 
 public class PrintNumbers {
     public static void printInc(int n){

@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Strings;
 public class RemoveCharacter{
     public static String removeChar(String str,int index,char c){
         if(index==str.length()){

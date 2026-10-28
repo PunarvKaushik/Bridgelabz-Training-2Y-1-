@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Arrays;
 
 public class Sum {
     public static int sumNumbers(int n){

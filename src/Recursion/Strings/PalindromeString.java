@@ -1,4 +1,4 @@
-package Recursion.Arrays;
+package Recursion.Strings;
 
 public class PalindromeString {
     public static boolean palindromeString(String str,int start,int end){

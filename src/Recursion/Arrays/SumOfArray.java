@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Arrays;
 
 public class SumOfArray {
     public static int sum(int[] a,int index){

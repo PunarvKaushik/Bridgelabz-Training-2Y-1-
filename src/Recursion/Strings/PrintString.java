@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Strings;
 
 public class PrintString {
     public static void printCharacter(String name,int index){

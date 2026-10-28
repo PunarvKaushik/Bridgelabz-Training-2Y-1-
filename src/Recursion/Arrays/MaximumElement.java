@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Arrays;
 
 public class MaximumElement {
     public static int maxElement(int[] a,int index){

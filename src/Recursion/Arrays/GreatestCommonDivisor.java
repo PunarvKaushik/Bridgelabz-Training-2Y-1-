@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Arrays;
 
 public class GreatestCommonDivisor {
     public static int gcd(int x,int y){
